@@ -1,5 +1,5 @@
 Class diagram: 
-https://lucid.app/lucidchart/9a453602-0bb9-40d6-9e11-9464a84451c8/edit?view_items=I~IdWMIL2ie.&invitationId=inv_780891d7-c541-4a02-a062-4e03b0dbabe9
+https://lucid.app/documents/view/9a453602-0bb9-40d6-9e11-9464a84451c8
 
 Use Case Diagram
 https://lucid.app/lucidchart/...
