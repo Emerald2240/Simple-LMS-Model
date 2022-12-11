@@ -1,4 +1,4 @@
-Class diagram: 
+Class Diagram: 
 https://lucid.app/documents/view/9a453602-0bb9-40d6-9e11-9464a84451c8
 
 
